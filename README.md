@@ -1,0 +1,1 @@
+This repo, contains my configs to archLinux
