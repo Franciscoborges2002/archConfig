@@ -1,6 +1,7 @@
-# howToAddCodiumConsole
+# how to add codium command to console
 
-alias codium="flatpak run com.vscodium.codium"
+## 1. sudo nano ./bashrc
+## 2. alias codium="flatpak run com.vscodium.codium"
 
 more info:
 * https://github.com/VSCodium/vscodium/blob/master/docs/index.md#terminal-support
